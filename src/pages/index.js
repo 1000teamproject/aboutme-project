@@ -27,12 +27,10 @@ export default function Home() {
             <p>about me page</p>
           </a>
           <a
-            href='https://github.com/wangalec/website-template'
+            href='http://localhost:3000/biancaGautam'
             className='card'>
-            <h3>Project Resources&rarr;</h3>
-            <p>
-              Return to the Github for resources on creating your own website!
-            </p>
+            <h3>Next.js&rarr;</h3>
+            <p>Click here to learn more about Bianca Gautam!</p>
           </a>
           <a
             href='https://nextjs.org/learn/foundations/about-nextjs'
