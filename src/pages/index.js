@@ -34,11 +34,9 @@ export default function Home() {
               Return to the Github for resources on creating your own website!
             </p>
           </a>
-          <a
-            href='https://nextjs.org/learn/foundations/about-nextjs'
-            className='card'>
-            <h3>Next.js&rarr;</h3>
-            <p>Click here to learn more about Next.js</p>
+            <a href='http://localhost:3000/BethlehemBelay' className='card'>
+            <h3>About Me Project &rarr;</h3>
+            <p>Click here to learn more about Beth :o</p>
           </a>
          <a href='http://localhost:3000/BethlehemBelay' className='card'>
             <h3>About Me Project &rarr;</h3>
