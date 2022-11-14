@@ -39,6 +39,12 @@ export default function Home() {
          <a href='http://localhost:3000/BethlehemBelay' className='card'>
             <h3>About Me Project &rarr;</h3>
             <p>Click here to learn more about Beth :o</p>
+          <a
+            href='http://localhost:3000/ChloedeGrivel'
+            className='card'>
+            <h3>Next.js&rarr;</h3>
+            <p>Want to read about Chloé de Grivel? Click here to learn more!!</p>
+          </a>
           </a>{' '}
           <a href='https://tailwindcss.com/' className='card'>
             <h3>Tailwind css&rarr;</h3>
