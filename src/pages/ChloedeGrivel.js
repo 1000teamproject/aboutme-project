@@ -10,7 +10,7 @@ export default function examplePage() {
           </div>
           <img
             className='pic'
-            src='https://tenor.com/view/groot-dancing-baby-groot-guardians-of-the-galaxy-marvel-gif-8589502'
+            src='https://media1.giphy.com/media/11vDNL1PrUUo0/200w.gif?cid=6c09b952cxud8x5e3go4pod0he9dn20oong84k903p528oum&rid=200w.gif&ct=g'
             alt='Chloé de Grivel'
           />
 
